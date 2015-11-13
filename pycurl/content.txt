@@ -1,0 +1,191 @@
+HTTP/1.1 200 OK
+Server: Tengine/2.1.0
+Date: Fri, 13 Nov 2015 06:15:24 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 9223
+Last-Modified: Wed, 04 Nov 2015 03:30:02 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+ETag: "56397bba-2407"
+Expires: Fri, 13 Nov 2015 06:15:23 GMT
+Cache-Control: no-cache
+Accept-Ranges: bytes
+
+﻿<!doctype html>
+<html class="index20150806">
+<head>
+<meta charset="utf-8"/>
+<title>大家社区</title>
+<meta name="keywords" content=""/>
+<meta name="description" content=""/>
+<link rel="stylesheet" href="./css/index20150806_normalize.css" />
+<link rel="stylesheet" href="./css/index20150806_common20150324.css" />
+
+<link rel="stylesheet" href="./css/index20150806_page20151031.css" />
+
+<!--[if lt IE9]> 
+<script> 
+   (function() {
+     if (! 
+     /*@cc_on!@*/
+     0) return;
+     var e = "abbr, article, aside, audio, canvas, datalist, details, dialog, eventsource, figure, footer, header, hgroup, mark, menu, meter, nav, output, progress, section, time, video".split(', ');
+     var i= e.length;
+     while (i--){
+         document.createElement(e[i])
+     } 
+})() 
+</script>
+<style>article,aside,dialog,footer,header,section,footer,nav,figure,menu{display:block}</style>
+<![endif]-->
+<script charset="utf-8" src="http://wpa.b.qq.com/cgi/wpa.php"></script>
+</head>
+<body class="index_bg" id="top">
+
+
+	<header>
+        <div class="public_fixed_logo"><a href="index.html"><img src="./images/public/header/logo.png"></a></div>
+        <div class="public_fixed_login"><a href="http://www.dajiashequ.com/login/toCompanyLogin.action" target="_blank"><img src="./images/public/header/login.png"></a></div>
+    </header>
+    <div class="index_banner">
+    	<div class="fl index_banner_img1">
+        	<a data-href=""><img src="./images/index/banner/img1.jpg"></a>
+            <a data-href=""><img src="./images/index/banner/img3.jpg"></a>
+	    <!-- <a data-href="" href="http://v.youku.com/v_show/id_XMTMwOTg1NTkwOA==.html?from=s1.8-1-1.2" class="pointer" target="_blank"><img src="./images/index/banner/img3.jpg"></a> -->
+            <a data-href=""><img src="./images/index/banner/img2.jpg"></a>
+            <a data-href=""><img src="./images/index/banner/img4.jpg"></a>
+        </div>
+        <div class="index_control"></div>
+    </div>
+    <aside>
+        <div class="index_banner_login"><a href="http://www.dajiashequ.com/login/toCompanyLogin.action" target="_blank"><img src="./images/index/banner/left_off.png"></a></div>
+        <div class="index_banner_reg"><a href="http://www.dajiashequ.com/login/toCompanyLogin.action" target="_blank"><img src="./images/index/banner/right_off.png"></a></div>
+        <div class="index_banner_arrow			animated		duration1_5		infinite	slideInDown"></div>
+    </aside>
+    <nav>
+    	<ul>
+        	<li><a data-href="#top">首页</a></li>
+            <li><a data-href="#intro">大家简介</a></li>
+            <li><a href="activity.html">大家动态</a></li>
+            <li><a data-href="#product">产品介绍</a></li>
+            <li><a data-href="#industry">行业聚焦</a></li>            
+            <li><a data-href="#custom">典型客户</a></li>
+            <li><a data-href="#price">价格方案</a></li>
+            <li><a data-href="#experience">快速体验</a></li>
+            <li><a data-href="#contact">联系我们</a></li>
+        </ul>
+    </nav>
+    <section class="index_otool_bg" id="otool">
+    	<div class="index_otool_1"></div>
+        <div class="index_otool_2"></div>
+        <div class="index_otool_3"></div>
+        <div class="index_otool_4"></div>
+        <div class="index_otool_5"></div>
+        <div class="index_otool_6"></div>
+        <div class="index_otool_7"></div>
+        <div class="index_otool_8"></div>
+        <div class="index_otool_9"></div>
+        <div class="index_otool_10"></div>
+    </section>
+    <section class="index_team_intro" id="intro">
+    	<div class="index_team_more"><a href="team.html">
+        <div class="index_team_arrow fl			animated				infinite	slideInLeft"></div>
+        <div class="index_team_more0 fl"></div>
+        </a></div>
+    </section>
+    <section class="index_product_bg" id="product">
+    	<div class="index_product_lion1	product_intros"></div>
+        <div class="index_product_lion2	product_intros"></div>
+        <div class="index_product_lion3	product_intros"></div>
+    	<div class="index_product1 product_intro"></div>
+        <div class="index_product2 product_intro"></div>
+        <div class="index_product3 product_intro"></div>
+    </section>
+    <section class="index_products" id="industry">
+    	<a href="entrepreneurship.html"><div class="index_products_1"></div></a>
+    	<a href="property.html"><div class="index_products_2"></div></a>
+    	<a href="join.html"><div class="index_products_3"></div></a>
+        <div class="index_products_4"></div><div class="index_products_5"></div><div class="index_products_6"></div>
+    </section>
+    <section class="index_custom" id="custom"></section>
+    <section class="index_price" id="price"><div id="price0"></div></section>
+    <section class="index_experience" id="experience">
+    	<div class="fl index_experience_txt">
+        	<img src="./images/index/experience/qrcode.png"  class="iqrcode">
+        </div>
+    </section>
+    <section class="index_contact" id="contact">
+    	<div class="index_contact_map"></div><div class="index_contact_txt"></div><div class="index_contact_address"></div>
+        <div class="index_contact_tel"></div><div class="index_contact_email"></div>
+        <div class="index_contact_joinus">
+        	<a href="joinus.html">
+        	<div class="index_contact_arrow 	animated				infinite	slideInLeft"></div>
+            <div class="index_contact_joinus0 "></div>
+            </a>
+        </div>
+    </section>
+    <footer>
+    	<div class="fl public_footer_txt">
+        	<h2>
+            	<b><img src="./images/public/footer/footer1_1.png" width="131" height="23"></b>
+                <a href="services.html"><img src="./images/public/footer/footer1_2.png" width="74" height="17"></a></h2>
+            <h3>
+            	<b><img src="./images/public/footer/footer2_1.png" width="105" height="22"></b> 
+                <a href="team.html"><img src="./images/public/footer/footer2_2.png" width="73" height="17"></a> 
+                <img src="./images/public/footer/footer2_0.png" width="10" height="13">
+                <a href="products.html"><img src="./images/public/footer/footer2_3.png" width="74" height="17"></a> 
+                <img src="./images/public/footer/footer2_0.png" width="10" height="13">
+                <a href="index.html#price0"><img src="./images/public/footer/footer2_4.png" width="74" height="17"></a> 
+                <img src="./images/public/footer/footer2_0.png" width="10" height="13">
+                <a href="index.html#contact"><img src="./images/public/footer/footer2_5.png" width="73" height="17"></a> 
+                <img src="./images/public/footer/footer2_0.png" width="10" height="13">
+                <a href="joinus.html"><img src="./images/public/footer/footer2_6.png" width="75" height="17"></a>
+            </h3>
+        </div>
+        <div class="public_footer_logo"></div>
+        <div class="public_footer_qrcode">
+        	<div class="fl public_footer_app_bg"><img src="./images/public/footer/app.jpg" width="133" height="131"></div>
+            <div class="fl public_footer_wechat_bg"><img src="./images/public/footer/wechat.jpg" width="133" height="132"></div>
+        </div>
+    </footer>
+    <footer class="index_partner">
+    	<div class="index_partner_txt"></div>
+        <div class="index_partner_logo">
+        	<div class="fl">
+            	<a target="_blank" href="http://www.gb360.org"><img src="./images/index/partner/logo1.jpg" width="187" height="71"></a>
+            </div>
+            <div class="fl partner_dotted"><img src="./images/index/partner/dotted.png" width="1" height="64"></div>
+            <div class="fl">
+            	<a href="javascript:void();"><img src="./images/index/partner/logo2.jpg" width="187" height="71"></a>
+            </div>
+            <div class="fl partner_dotted"><img src="./images/index/partner/dotted.png" width="1" height="64"></div>
+            <div class="fl">
+            	<a target="_blank" href="http://www.wincoach.cn"><img src="./images/index/partner/logo3.jpg" width="187" height="71"></a>
+            </div>
+            <div class="fl partner_dotted"><img src="./images/index/partner/dotted.png" width="1" height="64"></div>
+            <div class="fl">
+            	<a target="_blank" href="http://www.showyes.org"><img src="./images/index/partner/logo4.jpg" width="187" height="71"></a>
+            </div>
+        </div>
+        <div class="public_footer_copyright">
+       版权所有:北京慧友云商科技有限公司　　&copy;2015　Dajiashequ.com　　京ICP备15036223号　　京公安备11010802017549
+        </div>
+    </footer>
+    <script src="./js/jquery.core.js"></script>
+    <script>var page="index";</script>
+	<!--QQ交谈-->
+	<div id="index_qqTalk">
+		<img src="images/public/qqTalk/index_QQTalk.png" />
+	</div>
+	<script>
+	BizQQWPA.addCustom({
+		aty: '1', //指定工号类型
+		a: '1001', //指定的工号
+		nameAccount: '938060809', //营销 QQ 号码
+		selector:'index_qqTalk'
+	});
+	</script>
+	<!--QQ交谈 end-->
+	<script src="./js/index20150806_js.js"></script>
+</body>
+</html>
