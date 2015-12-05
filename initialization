@@ -3,7 +3,7 @@
 #################################################
 #written:wenjun
 #date:2015-12-05
-#email:zhiwenjun@dajiashequ.com
+#email:gnufree@126.com
 #################################################
  
 if [[ "$(whoami)" != "root" ]]; then
